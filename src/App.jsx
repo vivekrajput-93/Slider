@@ -5,7 +5,6 @@ import ImageSlider from './ImageSlider';
 const App = () => {
   return (
     <div className='container'>
-      <h2>Hello</h2>
       <ImageSlider images={data} />
     </div>
   );
